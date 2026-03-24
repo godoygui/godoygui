@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-<sub>Estudante de Engenharia de Software na FIAP, com foco em criar soluções funcionais e bem estruturadas utilizando Java, Spring Boot e bancos de dados SQL. Tenho experiência prática no desenvolvimento de APIs REST, modelagem de dados e implementação de regras de negócio que conectam o front-end às funcionalidades do servidor.</sub>
+<p><i>Estudante de Engenharia de Software na FIAP, com foco em criar soluções funcionais e bem estruturadas utilizando Java, Spring Boot e bancos de dados SQL. Tenho experiência prática no desenvolvimento de APIs REST, modelagem de dados e implementação de regras de negócio que conectam o front-end às funcionalidades do servidor.</i></p>
 
 ---
 
@@ -40,11 +40,10 @@
 
 ---
 
-### 🗄️ DataBases
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-0277BD?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-283593?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-2E7D32?style=for-the-badge&logo=mongodb&logoColor=white)
-
 
 ---
 
