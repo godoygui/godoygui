@@ -6,7 +6,7 @@
 
 ## Sobre mim
 
-<p><i>Estudante de Engenharia de Software na FIAP, com foco em criar soluções funcionais e bem estruturadas utilizando Java, Spring Boot e bancos de dados SQL. Tenho experiência prática no desenvolvimento de APIs REST, modelagem de dados e implementação de regras de negócio que conectam o front-end às funcionalidades do servidor.</i></p>
+<p>Estudante de Engenharia de Software na FIAP, com foco em criar soluções funcionais e bem estruturadas utilizando Java, Spring Boot e bancos de dados SQL. Tenho experiência prática no desenvolvimento de APIs REST, modelagem de dados e implementação de regras de negócio que conectam o front-end às funcionalidades do servidor.</p>
 
 ---
 
@@ -50,10 +50,10 @@
 ## 📫 Contato
 
 <p>
-  <a href="https://linkedin.com/in/SEU_LINKEDIN" target="_blank">
+  <a href="https://linkedin.com/in/www.linkedin.com/in/guilherme--godoy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
-  <a href="mailto:SEU_EMAIL@gmail.com">
+  <a href="mailto:guilherme0510g@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" />
   </a>
 </p>
