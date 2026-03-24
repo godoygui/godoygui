@@ -50,7 +50,7 @@
 ## 📫 Contato
 
 <p>
-  <a href="https://linkedin.com/in/www.linkedin.com/in/guilherme--godoy" target="_blank">
+  <a href="https://www.linkedin.com/in/guilherme--godoy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" />
   </a>
   <a href="mailto:guilherme0510g@gmail.com">
